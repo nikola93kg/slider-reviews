@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/slider-reviews/static/css/main.b4cf9182.css",
+    "main.js": "/slider-reviews/static/js/main.ab13cc2e.js",
+    "index.html": "/slider-reviews/index.html",
+    "main.b4cf9182.css.map": "/slider-reviews/static/css/main.b4cf9182.css.map",
+    "main.ab13cc2e.js.map": "/slider-reviews/static/js/main.ab13cc2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4cf9182.css",
+    "static/js/main.ab13cc2e.js"
+  ]
+}
